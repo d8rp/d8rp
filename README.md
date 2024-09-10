@@ -37,8 +37,8 @@
 
 <p align="center">
     <a href="https://github.com/fuwaguwa" style="width: 100%">
-        <img src="https://fuwafuwa-readme-stats.vercel.app/api?username=fuwaguwa&show_icons=true&count_private=true&hide=prs,issues&hide_border=true&bg_color=1a1c1f" height="136px"/>
-        <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=fuwaguwa&show_icons=true&layout=compact&hide_border=true&bg_color=1a1c1f" height="136px"/>
+        <img src="https://fuwafuwa-readme-stats.vercel.app/api?username=d8rp&show_icons=true&count_private=true&hide=prs,issues&hide_border=true&bg_color=1a1c1f" height="136px"/>
+        <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=d8rp&show_icons=true&layout=compact&hide_border=true&bg_color=1a1c1f" height="136px"/>
     </a>
 </p>
 
