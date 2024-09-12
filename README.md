@@ -27,8 +27,8 @@
 
 
 <p align="center">
-    <a href="https://discord.gg/NFkMxFeEWr" style="width: 100%">
-        <img src="https://lanyard.cnrad.dev/api/836215956346634270?bg=1a1c1f" height="150px"/>
+    <a href="./" style="width: 100%">
+        <img src="https://lanyard.cnrad.dev/api/466576359322419210?bg=1a1c1f" height="150px"/>
     </a>
     <a href="https://wakatime.com/@derp" style="width: 100%">
         <img src="https://fuwafuwa-readme-stats.vercel.app/api/wakatime?username=derp&hide_border=true&bg_color=1a1c1f&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2&layout=compact&range=last_7_days" height="150px">
