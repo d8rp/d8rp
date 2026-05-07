@@ -13,12 +13,13 @@
     <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python"></a>
     <a href="https://nodejs.org/en/"><img src="https://skillicons.dev/icons?i=nodejs"></a>
     <a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb"></a>
-    <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel"></a>
     <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express"></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash"></a>
     <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"></a>
     <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"></a>
     <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"></a>
+    <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=unity"></a>
+    <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=c"></a>
     <img src="assets/uoh.gif" height="50px" width="50px">
 </p>
 
