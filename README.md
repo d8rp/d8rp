@@ -1,10 +1,9 @@
-# Hi, I'm Derp! 👋
-* 🔍 | I also go by *derp*.
-* 🧑‍💻 | I'm a **high-schooler** and a **hobbyist programmer** that comes from Vietnam!
+# Hi, I'm Thanh! 👋
+* 🔍 | I also go by *Viktor*.
+* 🧑‍💻 | I'm a **university student** and a **hobbyist programmer** that comes from Vietnam!
 * 💖 | I'm interested in **back-end development** and creating applications with **Node.js** and **TypeScript**.
 * 🔨 | I usually work on anything that I can think of in my free-time, most of which are very random.
 * 😀 | I'm a person who learns best by doing, any contributions to my projects is always appreciated!
-* 👋 | You can contact me using [Discord](https://discord.gg/NFkMxFeEWr), either via my server or directly messaging me! 
   
 ## Technologies
 
